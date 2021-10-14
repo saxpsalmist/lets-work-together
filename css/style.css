@@ -40,6 +40,8 @@ ul {
   border: 2px;
   margin: 20px;
   padding: 20px;
+  text-align: center;
+  text-decoration: none;
 }
 .foot-note {
   text-align: center;

@@ -1,0 +1,26 @@
+nav {
+  text-align: right;
+  background-color: red;
+  padding: 1.5em;
+  text-decoration: none;
+}
+nav li {
+  display: inline;
+  padding: 0.5em;
+  font-size: 25px;
+}
+div {
+  background-color: slategray;
+  padding: 10em 0;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+ul li {
+  display: inline;
+  padding: 1em;
+}
+footer {
+  background-color: slategray;
+}
